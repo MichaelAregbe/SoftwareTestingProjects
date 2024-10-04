@@ -1,13 +1,13 @@
 # SoftwareTestingProjects
 
-Project #1 - TestCase and Test Plan for app.vwo.com
+Project #1 - TestCase and Test Plan for https://awesomeqa.com/ui/index.php?route=account/register
 
 1. Test Plan
 2. TestCases
 
-https://docs.google.com/spreadsheets/d/1jNQ7TgsknmMIekXtRTRl4GMOxHgk7XJpLo0FnTt6gxM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1daeKyLea540vkvcku0knUIHMMXqH_nxEcOgcjdOkiRE/edit?usp=sharing
 
-![Screenshot 2024-10-03 at 06 49 16](https://github.com/user-attachments/assets/6069e624-58ac-45d1-9373-5fb08afd207b)
+![Screenshot 2024-10-04 at 13 15 54](https://github.com/user-attachments/assets/ecbe5208-c2a8-4048-9741-7944d7a17ce7)
 
 ## Project List
 
